@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@300&display=swap');
 .gallery {
     margin: 00px 50px;
 	display: grid;
@@ -28,16 +29,17 @@ h1{
 	text-align: center;
 	font-size: 3rem;
 	color: rgb(5, 5, 5);
+	font-family: "Overpass";
 
 }
 body {
-    background-color: rgb(66, 93, 148);
-	background-size: cover;
+    background-color: rgb(68, 117, 216);
 	height: 100%;
 	width: 100%;
 	object-fit: cover;
 	
 }
+
    
     
 	
