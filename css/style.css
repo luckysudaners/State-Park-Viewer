@@ -7,7 +7,7 @@
 	width: 80%;
 	align-items: center;
 	grid-template: auto / repeat(auto-fit, minmax(300px, 1fr));
-	overflow: hidden;
+	
 	
 }
 .gallery img{
