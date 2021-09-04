@@ -1,10 +1,14 @@
 .gallery {
-    margin: 20px 50px;
-    background-color: tan;
-	display: block;
+    margin: 00px 50px;
+	display: grid;
+	grid-gap: 25px;
 	margin-left: auto;
 	margin-right: auto;
 	width: 80%;
+	align-items: center;
+	grid-template: auto / repeat(auto-fit, minmax(300px, 1fr));
+	overflow: hidden;
+	
 }
 .gallery img{
     transition: 1s;
@@ -35,6 +39,7 @@ body {
 	
 }
    
+    
 	
 	
 	
