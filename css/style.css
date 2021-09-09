@@ -34,6 +34,7 @@ h1{
 }
 body {
     background-color: rgb(68, 117, 216);
+	background-size: cover;
 	height: 100%;
 	width: 100%;
 	object-fit: cover;
